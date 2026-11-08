@@ -1,0 +1,13 @@
+# raw postings are large and not redistributable
+data/raw/
+
+# generated during development
+run.log
+notebook_run.log
+.tmp/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# submission archives
+*.zip

@@ -1,0 +1,3 @@
+model,AUC,AUC_std,P@20,P@50
+Logistic Regression,0.8894,0.0267,0.15,0.096
+Random Forest,0.9189,0.0203,0.125,0.114

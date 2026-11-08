@@ -1,0 +1,6 @@
+method,AUC_1to1,P@20_1to1,AUC_hard,P@20_hard
+CN,0.9019,0.99,0.7586,0.98
+Jaccard,0.8724,0.93,0.6726,0.85
+Adamic-Adar,0.9137,0.995,0.7951,0.985
+Preferential Attachment,0.8026,0.93,0.6962,0.835
+Resource Allocation,0.9179,0.995,0.8067,0.975

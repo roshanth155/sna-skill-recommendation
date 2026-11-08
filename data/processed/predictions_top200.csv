@@ -1,0 +1,201 @@
+skill_a,skill_b,score,cn
+Python,Stakeholder Management,1.54,22
+Agile,Data Analysis,1.09,18
+Microsoft Excel,Payroll,1.038,12
+Accounting,Compliance,0.958,9
+Compliance,Quality Assurance,0.852,6
+Quality Assurance,Stakeholder Management,0.779,14
+Microsoft Excel,Process Improvement,0.735,10
+CSS,Python,0.676,12
+Compliance,Microsoft Excel,0.652,6
+Agile,Process Improvement,0.642,9
+Java,Stakeholder Management,0.619,12
+Process Improvement,SQL,0.61,9
+Project Management,SQL,0.604,9
+Microsoft Excel,Stakeholder Management,0.594,7
+Accounting,Process Improvement,0.591,9
+AWS,CSS,0.586,12
+C#,REST API,0.573,14
+Compliance,Process Improvement,0.572,6
+Compliance,Forecasting,0.562,7
+Accounts Receivable,Budgeting,0.555,9
+Angular,Python,0.542,12
+Compliance,Project Management,0.533,5
+Angular,Microsoft Azure,0.519,12
+Data Analysis,Negotiation,0.513,7
+Process Improvement,Risk Management,0.512,9
+Project Management,Supply Chain,0.49,8
+CI/CD,CSS,0.486,11
+Process Improvement,Reconciliation,0.472,7
+Kubernetes,REST API,0.472,12
+CRM,Forecasting,0.467,6
+Process Improvement,Quality Control,0.463,5
+Accounts Payable,Forecasting,0.459,8
+Agile,Apache Spark,0.458,9
+Accounting,Stakeholder Management,0.45,6
+Payroll,Procurement,0.448,7
+C#,TypeScript,0.438,10
+REST API,TypeScript,0.438,10
+SQL,TypeScript,0.438,10
+Data Analysis,Procurement,0.433,8
+C#,Linux,0.429,11
+Docker,HTML,0.429,12
+ERP,Financial Analysis,0.428,8
+Microsoft Azure,Project Management,0.425,7
+Logistics,Quality Assurance,0.422,6
+Account Management,Cold Calling,0.414,5
+Cold Calling,Salesforce,0.414,5
+Linux,Terraform,0.413,8
+Account Management,Forecasting,0.412,5
+Accounts Receivable,Forecasting,0.411,7
+Accounting,Risk Management,0.407,5
+Data Analysis,Java,0.406,9
+Forecasting,Project Management,0.404,8
+Agile,Risk Management,0.396,6
+Apache Spark,Stakeholder Management,0.392,7
+Compliance,ERP,0.391,6
+Project Management,Python,0.389,6
+Angular,Docker,0.386,10
+ERP,Negotiation,0.383,6
+Data Visualization,Process Improvement,0.381,7
+Linux,REST API,0.381,11
+Data Analysis,Logistics,0.381,5
+JavaScript,Microservices,0.376,11
+Jenkins,Microservices,0.376,11
+Git,Node.js,0.374,10
+Change Management,PMP,0.372,7
+React,SQL Server,0.367,11
+Payroll,Process Improvement,0.365,6
+Git,Google Cloud Platform,0.364,11
+Jenkins,React,0.363,11
+Forecasting,Logistics,0.363,6
+CI/CD,TypeScript,0.361,9
+Microsoft Azure,TypeScript,0.361,9
+Financial Reporting,Procurement,0.354,7
+CSS,Docker,0.353,9
+Accounts Payable,Financial Analysis,0.351,6
+Budgeting,SAP,0.35,7
+Forecasting,Power BI,0.35,7
+Google Cloud Platform,JavaScript,0.349,11
+Financial Analysis,Payroll,0.347,6
+Negotiation,Process Improvement,0.344,7
+Data Analysis,Data Modeling,0.342,8
+Process Improvement,Python,0.339,5
+Accounts Payable,Compliance,0.338,5
+Compliance,Reconciliation,0.338,5
+Microsoft Azure,Node.js,0.337,9
+Node.js,SQL,0.337,9
+JavaScript,Jira,0.337,11
+HTML,Stakeholder Management,0.328,7
+Google Cloud Platform,Jenkins,0.327,10
+Microsoft Azure,Tableau,0.327,8
+ETL,Power BI,0.326,9
+Angular,SQL Server,0.324,9
+Microservices,React,0.323,10
+Budgeting,Change Management,0.322,6
+Apache Spark,Kubernetes,0.32,7
+ETL,Machine Learning,0.319,10
+Angular,Node.js,0.318,8
+Change Management,Forecasting,0.318,6
+Data Analysis,Risk Management,0.317,6
+Linux,Microservices,0.317,10
+Linux,Stakeholder Management,0.315,8
+C++,Microsoft Azure,0.314,8
+C++,SQL,0.314,8
+Ansible,Docker,0.313,7
+Ansible,Google Cloud Platform,0.313,7
+Docker,SQL Server,0.311,10
+AWS,Quality Assurance,0.311,8
+Microsoft Azure,Quality Assurance,0.311,8
+Python,Quality Assurance,0.311,8
+Accounts Payable,Data Entry,0.309,5
+Data Entry,Reconciliation,0.309,5
+HTML,Jenkins,0.308,10
+C#,Jenkins,0.304,10
+C#,Kubernetes,0.304,10
+Kubernetes,React,0.304,10
+Linux,React,0.304,10
+REST API,SQL Server,0.304,10
+Microsoft Azure,Process Improvement,0.304,5
+Accounts Receivable,Financial Analysis,0.303,5
+SAP,Stakeholder Management,0.302,6
+Inventory Management,Process Improvement,0.301,5
+AWS,Project Management,0.3,6
+Financial Reporting,SAP,0.297,6
+GAAP,SAP,0.297,6
+Git,Machine Learning,0.296,8
+Financial Reporting,Stakeholder Management,0.296,5
+Git,Stakeholder Management,0.294,8
+ERP,Quality Assurance,0.293,5
+CSS,SQL Server,0.291,8
+CI/CD,Data Analysis,0.29,8
+Data Analysis,JavaScript,0.29,8
+Machine Learning,Power BI,0.288,8
+Kubernetes,Scrum,0.286,10
+Change Management,Scrum,0.286,7
+ETL,Google Cloud Platform,0.284,9
+Google Cloud Platform,Machine Learning,0.284,9
+Microsoft Excel,Procurement,0.284,5
+Procurement,Reconciliation,0.284,5
+SQL Server,Scrum,0.283,10
+GAAP,Procurement,0.283,6
+Docker,Node.js,0.282,8
+Financial Modeling,Financial Reporting,0.281,5
+Financial Modeling,GAAP,0.281,5
+Financial Modeling,Reconciliation,0.281,5
+Change Management,Supply Chain,0.28,6
+C#,Node.js,0.279,8
+Hadoop,Java,0.278,5
+Hadoop,Machine Learning,0.278,5
+Google Cloud Platform,Microservices,0.277,9
+Git,Quality Assurance,0.276,7
+Big Data,Microsoft Azure,0.275,7
+Data Visualization,Data Warehousing,0.272,7
+Agile,Statistics,0.271,6
+CSS,Stakeholder Management,0.271,5
+Agile,Terraform,0.27,7
+Java,Terraform,0.27,7
+SQL,Terraform,0.27,7
+ERP,Stakeholder Management,0.27,6
+Budgeting,PMP,0.269,5
+HTML,Microservices,0.268,9
+Forecasting,Quality Assurance,0.267,5
+Angular,Jenkins,0.265,8
+Machine Learning,Tableau,0.265,7
+C#,Microservices,0.264,9
+Ansible,Infrastructure as Code,0.263,6
+Docker,Infrastructure as Code,0.263,6
+Google Cloud Platform,Infrastructure as Code,0.263,6
+Budgeting,Supply Chain,0.263,6
+Data Modeling,Tableau,0.263,7
+SQL Server,Stakeholder Management,0.262,8
+CSS,Node.js,0.262,6
+Data Analysis,ERP,0.26,5
+PMP,Procurement,0.26,5
+AWS,Tableau,0.26,7
+Data Quality,Tableau,0.26,7
+C#,Machine Learning,0.259,7
+Linux,Machine Learning,0.259,7
+Logistics,Stakeholder Management,0.255,5
+Apache Kafka,Google Cloud Platform,0.254,7
+Apache Kafka,Microsoft Azure,0.254,7
+Data Analysis,Jira,0.252,8
+C#,Scrum,0.249,9
+Docker,Scrum,0.249,9
+HTML,Kubernetes,0.249,9
+HTML,Linux,0.249,9
+HTML,Scrum,0.249,9
+Jenkins,SQL Server,0.249,9
+Jenkins,Scrum,0.249,9
+Kubernetes,SQL Server,0.249,9
+Linux,SQL Server,0.249,9
+Linux,Scrum,0.249,9
+REST API,Scrum,0.249,9
+React,Scrum,0.249,9
+ETL,Git,0.248,8
+Financial Modeling,Process Improvement,0.247,5
+Data Visualization,Machine Learning,0.245,6
+Node.js,TypeScript,0.244,7
+ERP,Power BI,0.242,5
+C++,CI/CD,0.242,7
+C++,Docker,0.242,7

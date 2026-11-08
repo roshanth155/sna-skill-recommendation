@@ -1,0 +1,904 @@
+source,target,weight,predicted,score
+Leadership,Mentoring,1629,0,0.0
+Leadership,Forecasting,424,0,0.0
+Leadership,Employee Relations,162,0,0.0
+Leadership,Performance Management,331,0,0.0
+Leadership,Budgeting,433,0,0.0
+Leadership,PMP,176,0,0.0
+Leadership,Change Management,339,0,0.0
+Leadership,Lean Manufacturing,78,0,0.0
+Leadership,Six Sigma,123,0,0.0
+Leadership,NLP,55,0,0.0
+Sales,CRM,1024,0,0.0
+Sales,Negotiation,618,0,0.0
+Sales,Account Management,373,0,0.0
+Sales,Branding,149,0,0.0
+Sales,Salesforce,569,0,0.0
+Sales,Business Development,813,0,0.0
+Sales,Cold Calling,219,0,0.0
+Sales,Lead Generation,692,0,0.0
+Sales,Market Research,187,0,0.0
+Sales,Digital Marketing,163,0,0.0
+Sales,E-commerce,229,0,0.0
+Sales,Inventory Management,330,0,0.0
+Sales,Email Marketing,65,0,0.0
+Compliance,Auditing,318,0,0.0
+Compliance,Risk Management,491,0,0.0
+Compliance,Tax Preparation,140,0,0.0
+Compliance,Payroll,517,0,0.0
+Compliance,Budgeting,373,0,0.0
+Compliance,GAAP,221,0,0.0
+Compliance,Employee Relations,152,0,0.0
+Compliance,Performance Management,261,0,0.0
+Compliance,OSHA,338,0,0.0
+Compliance,Quality Control,446,0,0.0
+Compliance,Financial Reporting,253,0,0.0
+Compliance,Variance Analysis,62,0,0.0
+Compliance,HIPAA,184,0,0.0
+Compliance,Procurement,416,0,0.0
+Compliance,Accounts Receivable,141,0,0.0
+Compliance,Clinical Research,139,0,0.0
+Compliance,GMP,130,0,0.0
+Compliance,Incident Response,56,0,0.0
+Compliance,Vendor Management,87,0,0.0
+Customer Service,HIPAA,143,0,0.0
+Customer Service,Inventory Management,328,0,0.0
+Customer Service,Bookkeeping,82,0,0.0
+Customer Service,Multitasking,296,0,0.0
+Customer Service,Phlebotomy,56,0,0.0
+Problem Solving,Time Management,668,0,0.0
+Problem Solving,Attention to Detail,931,0,0.0
+Problem Solving,Process Improvement,700,0,0.0
+Problem Solving,Critical Thinking,403,0,0.0
+Problem Solving,Git,126,0,0.0
+Problem Solving,Node.js,50,0,0.0
+Problem Solving,ETL,114,0,0.0
+Problem Solving,Power BI,121,0,0.0
+Problem Solving,PMP,102,0,0.0
+Problem Solving,Tax Preparation,95,0,0.0
+Problem Solving,Active Directory,69,0,0.0
+Problem Solving,Help Desk,278,0,0.0
+Problem Solving,Tableau,122,0,0.0
+Problem Solving,Six Sigma,92,0,0.0
+Problem Solving,Kubernetes,89,0,0.0
+Problem Solving,TCP/IP,56,0,0.0
+Problem Solving,Data Modeling,66,0,0.0
+Problem Solving,Google Cloud Platform,136,0,0.0
+Problem Solving,MySQL,55,0,0.0
+Problem Solving,Scrum,150,0,0.0
+Problem Solving,ITIL,57,0,0.0
+Problem Solving,Data Warehousing,81,0,0.0
+Problem Solving,Financial Modeling,56,0,0.0
+Problem Solving,DNS,58,0,0.0
+Problem Solving,Machine Learning,137,0,0.0
+Problem Solving,Data Visualization,77,0,0.0
+Problem Solving,Conflict Resolution,99,0,0.0
+Microsoft Excel,Organizational Skills,684,0,0.0
+Microsoft Excel,Time Management,644,0,0.0
+Microsoft Excel,Accounting,1058,0,0.0
+Microsoft Excel,Accounts Payable,198,0,0.0
+Microsoft Excel,Accounts Receivable,153,0,0.0
+Microsoft Excel,ERP,256,0,0.0
+Microsoft Excel,Attention to Detail,1010,0,0.0
+Microsoft Excel,SharePoint,176,0,0.0
+Microsoft Excel,Forecasting,309,0,0.0
+Microsoft Excel,Office Administration,201,0,0.0
+Microsoft Excel,GAAP,203,0,0.0
+Microsoft Excel,Reconciliation,373,0,0.0
+Microsoft Excel,Tax Preparation,103,0,0.0
+Microsoft Excel,Budgeting,277,0,0.0
+Microsoft Excel,Financial Modeling,104,0,0.0
+Microsoft Excel,Variance Analysis,76,0,0.0
+Microsoft Excel,Bookkeeping,66,0,0.0
+Microsoft Excel,Financial Analysis,178,0,0.0
+Microsoft Excel,Financial Reporting,223,0,0.0
+Microsoft Excel,Data Entry,216,0,0.0
+Microsoft Excel,Tableau,174,0,0.0
+Microsoft Excel,SAP,317,0,0.0
+Microsoft Excel,Power BI,178,0,0.0
+Stakeholder Management,Risk Management,287,0,0.0
+Stakeholder Management,Change Management,246,0,0.0
+Stakeholder Management,Data Quality,145,0,0.0
+Stakeholder Management,AWS,245,0,0.0
+Stakeholder Management,Agile,614,0,0.0
+Stakeholder Management,CI/CD,144,0,0.0
+Stakeholder Management,Google Cloud Platform,125,0,0.0
+Stakeholder Management,JavaScript,147,0,0.0
+Stakeholder Management,Process Improvement,638,0,0.0
+Stakeholder Management,Project Management,1042,0,0.0
+Stakeholder Management,Forecasting,275,0,0.0
+Stakeholder Management,Market Research,119,0,0.0
+Stakeholder Management,Negotiation,372,0,0.0
+Stakeholder Management,Presentation Skills,247,0,0.0
+Stakeholder Management,Data Analysis,510,0,0.0
+Stakeholder Management,SharePoint,97,0,0.0
+Stakeholder Management,Digital Marketing,121,0,0.0
+Stakeholder Management,Procurement,296,0,0.0
+Stakeholder Management,ServiceNow,60,0,0.0
+Stakeholder Management,SEO,64,0,0.0
+Stakeholder Management,Supply Chain,281,0,0.0
+Stakeholder Management,Budgeting,252,0,0.0
+Stakeholder Management,PMP,181,0,0.0
+Stakeholder Management,Scrum,196,0,0.0
+Stakeholder Management,Financial Analysis,101,0,0.0
+Stakeholder Management,Data Visualization,111,0,0.0
+Stakeholder Management,Jira,155,0,0.0
+Stakeholder Management,Machine Learning,134,0,0.0
+Stakeholder Management,SQL,370,0,0.0
+Stakeholder Management,Statistics,177,0,0.0
+Stakeholder Management,Tableau,175,0,0.0
+Stakeholder Management,Business Analysis,181,0,0.0
+Stakeholder Management,UX Design,174,0,0.0
+Stakeholder Management,Cybersecurity,227,0,0.0
+Stakeholder Management,Requirements Gathering,84,0,0.0
+Stakeholder Management,Confluence,56,0,0.0
+Stakeholder Management,Microsoft Azure,211,0,0.0
+Stakeholder Management,Power BI,152,0,0.0
+Stakeholder Management,Big Data,51,0,0.0
+Stakeholder Management,Financial Modeling,60,0,0.0
+Stakeholder Management,Data Warehousing,90,0,0.0
+Stakeholder Management,Data Modeling,71,0,0.0
+Stakeholder Management,ETL,108,0,0.0
+Stakeholder Management,Vendor Management,69,0,0.0
+Stakeholder Management,Six Sigma,75,0,0.0
+Recruiting,Training and Development,141,0,0.0
+Recruiting,Onboarding,355,0,0.0
+Recruiting,ServiceNow,73,0,0.0
+Recruiting,Mentoring,740,0,0.0
+Recruiting,Talent Acquisition,257,0,0.0
+Recruiting,Employee Relations,122,0,0.0
+Recruiting,Performance Management,170,0,0.0
+Recruiting,Clinical Research,93,0,0.0
+Teamwork,Tax Preparation,68,0,0.0
+Attention to Detail,Digital Marketing,69,0,0.0
+Attention to Detail,Organizational Skills,672,0,0.0
+Attention to Detail,Time Management,535,0,0.0
+Attention to Detail,SharePoint,84,0,0.0
+Attention to Detail,Adobe Photoshop,50,0,0.0
+Attention to Detail,Critical Thinking,181,0,0.0
+Attention to Detail,Data Entry,163,0,0.0
+Attention to Detail,Financial Reporting,106,0,0.0
+Attention to Detail,GAAP,97,0,0.0
+Attention to Detail,Reconciliation,165,0,0.0
+Attention to Detail,Multitasking,166,0,0.0
+Attention to Detail,Accounts Receivable,88,0,0.0
+Attention to Detail,Accounts Payable,122,0,0.0
+Attention to Detail,Office Administration,149,0,0.0
+Project Management,Logistics,245,0,0.0
+Project Management,Process Improvement,450,0,0.0
+Project Management,Market Research,72,0,0.0
+Project Management,Negotiation,313,0,0.0
+Project Management,Presentation Skills,168,0,0.0
+Project Management,Quality Assurance,297,0,0.0
+Project Management,Digital Marketing,86,0,0.0
+Project Management,Budgeting,218,0,0.0
+Project Management,PMP,246,0,0.0
+Project Management,Quality Control,219,0,0.0
+Project Management,Risk Management,253,0,0.0
+Project Management,AutoCAD,86,0,0.0
+Project Management,Business Analysis,117,0,0.0
+Project Management,Agile,327,0,0.0
+Project Management,Data Analysis,267,0,0.0
+Project Management,Data Quality,69,0,0.0
+Project Management,Change Management,239,0,0.0
+Project Management,Six Sigma,86,0,0.0
+Project Management,Jira,135,0,0.0
+Project Management,Scrum,125,0,0.0
+Project Management,Vendor Management,67,0,0.0
+Project Management,Procurement,308,0,0.0
+Project Management,SharePoint,93,0,0.0
+Project Management,ITIL,58,0,0.0
+Project Management,Data Visualization,51,0,0.0
+Mentoring,Employee Relations,95,0,0.0
+Mentoring,Onboarding,225,0,0.0
+Mentoring,Performance Management,216,0,0.0
+Mentoring,Bookkeeping,58,0,0.0
+Mentoring,Training and Development,108,0,0.0
+Mentoring,Lead Generation,151,0,0.0
+Mentoring,Change Management,146,0,0.0
+Mentoring,PMP,62,0,0.0
+Mentoring,Scrum,94,0,0.0
+Mentoring,Conflict Resolution,71,0,0.0
+Accounting,Accounts Payable,356,0,0.0
+Accounting,Accounts Receivable,259,0,0.0
+Accounting,Data Entry,105,0,0.0
+Accounting,Payroll,374,0,0.0
+Accounting,Reconciliation,564,0,0.0
+Accounting,Tax Preparation,264,0,0.0
+Accounting,ERP,287,0,0.0
+Accounting,Bookkeeping,149,0,0.0
+Accounting,Budgeting,315,0,0.0
+Accounting,GAAP,392,0,0.0
+Accounting,Variance Analysis,117,0,0.0
+Accounting,Auditing,180,0,0.0
+Accounting,Financial Analysis,231,0,0.0
+Accounting,Financial Modeling,89,0,0.0
+Accounting,Forecasting,303,0,0.0
+Accounting,Financial Reporting,429,0,0.0
+Accounting,SAP,170,0,0.0
+Accounting,Procurement,177,0,0.0
+Accounting,Power BI,70,0,0.0
+Scheduling,Logistics,264,0,0.0
+Scheduling,Event Planning,57,0,0.0
+Scheduling,Office Administration,172,0,0.0
+Scheduling,Multitasking,127,0,0.0
+Scheduling,Procurement,161,0,0.0
+Scheduling,PMP,54,0,0.0
+Scheduling,Quality Control,185,0,0.0
+Scheduling,Payroll,224,0,0.0
+Scheduling,OSHA,109,0,0.0
+Scheduling,HIPAA,51,0,0.0
+Scheduling,Electronic Health Records,55,0,0.0
+Process Improvement,Data Analysis,213,0,0.0
+Process Improvement,Logistics,219,0,0.0
+Process Improvement,Performance Management,109,0,0.0
+Process Improvement,Change Management,183,0,0.0
+Process Improvement,Quality Assurance,220,0,0.0
+Process Improvement,Budgeting,160,0,0.0
+Process Improvement,Procurement,165,0,0.0
+Process Improvement,Lean Manufacturing,86,0,0.0
+Process Improvement,ERP,141,0,0.0
+Process Improvement,Supply Chain,262,0,0.0
+Process Improvement,Tableau,63,0,0.0
+Process Improvement,Forecasting,144,0,0.0
+Process Improvement,Six Sigma,151,0,0.0
+Process Improvement,Financial Analysis,58,0,0.0
+Process Improvement,Financial Reporting,87,0,0.0
+Process Improvement,GAAP,65,0,0.0
+Process Improvement,Power BI,71,0,0.0
+Process Improvement,SAP,150,0,0.0
+Process Improvement,Scrum,65,0,0.0
+Process Improvement,Business Analysis,59,0,0.0
+Process Improvement,PMP,72,0,0.0
+Process Improvement,Statistics,100,0,0.0
+Process Improvement,SharePoint,56,0,0.0
+Process Improvement,GMP,60,0,0.0
+Time Management,Organizational Skills,343,0,0.0
+Time Management,Multitasking,181,0,0.0
+Time Management,Office Administration,91,0,0.0
+Time Management,Critical Thinking,129,0,0.0
+Organizational Skills,Logistics,168,0,0.0
+Organizational Skills,SharePoint,59,0,0.0
+Organizational Skills,Multitasking,145,0,0.0
+Organizational Skills,Accounts Payable,62,0,0.0
+Organizational Skills,Reconciliation,103,0,0.0
+Organizational Skills,Data Entry,108,0,0.0
+Organizational Skills,Office Administration,111,0,0.0
+Nursing,Critical Thinking,129,0,0.0
+Nursing,Patient Care,1183,0,0.0
+Nursing,Phlebotomy,80,0,0.0
+Nursing,Electronic Health Records,82,0,0.0
+Nursing,Event Planning,129,0,0.0
+Nursing,Talent Acquisition,83,0,0.0
+Patient Care,Critical Thinking,111,0,0.0
+Patient Care,HIPAA,114,0,0.0
+Patient Care,Phlebotomy,65,0,0.0
+Patient Care,Electronic Health Records,116,0,0.0
+Patient Care,Event Planning,152,0,0.0
+Patient Care,Talent Acquisition,75,0,0.0
+Agile,Change Management,123,0,0.0
+Agile,Salesforce,106,0,0.0
+Agile,ServiceNow,61,0,0.0
+Agile,AWS,284,0,0.0
+Agile,CI/CD,299,0,0.0
+Agile,Docker,119,0,0.0
+Agile,Google Cloud Platform,96,0,0.0
+Agile,JavaScript,249,0,0.0
+Agile,PostgreSQL,70,0,0.0
+Agile,Python,285,0,0.0
+Agile,TypeScript,90,0,0.0
+Agile,Jenkins,118,0,0.0
+Agile,Kubernetes,119,0,0.0
+Agile,Scrum,400,0,0.0
+Agile,Angular,111,0,0.0
+Agile,Jira,249,0,0.0
+Agile,Machine Learning,87,0,0.0
+Agile,Microservices,108,0,0.0
+Agile,REST API,142,0,0.0
+Agile,SQL,328,0,0.0
+Agile,Tableau,55,0,0.0
+Agile,UX Design,101,0,0.0
+Agile,Data Quality,52,0,0.0
+Agile,E-commerce,57,0,0.0
+Agile,C++,81,0,0.0
+Agile,HTML,163,0,0.0
+Agile,Business Analysis,104,0,0.0
+Agile,Confluence,86,0,0.0
+Agile,C#,138,0,0.0
+Agile,Git,189,0,0.0
+Agile,Microsoft Azure,262,0,0.0
+Agile,Power BI,67,0,0.0
+Agile,Data Modeling,62,0,0.0
+Agile,ETL,88,0,0.0
+Agile,Java,329,0,0.0
+Agile,SQL Server,116,0,0.0
+Agile,Apache Kafka,59,0,0.0
+Agile,Linux,134,0,0.0
+Agile,Unix,67,0,0.0
+Agile,Node.js,83,0,0.0
+Agile,React,150,0,0.0
+Agile,Data Warehousing,55,0,0.0
+Agile,Requirements Gathering,60,0,0.0
+Agile,CSS,124,0,0.0
+Agile,Quality Assurance,198,0,0.0
+Agile,PMP,75,0,0.0
+Agile,Kanban,79,0,0.0
+Agile,Cybersecurity,95,0,0.0
+Quality Assurance,Quality Control,294,0,0.0
+Quality Assurance,Procurement,126,0,0.0
+Quality Assurance,Supply Chain,98,0,0.0
+Quality Assurance,Change Management,60,0,0.0
+Quality Assurance,Java,80,0,0.0
+Quality Assurance,Risk Management,93,0,0.0
+Quality Assurance,Data Analysis,127,0,0.0
+Quality Assurance,SQL,140,0,0.0
+Quality Assurance,JavaScript,70,0,0.0
+Quality Assurance,Scrum,72,0,0.0
+Quality Assurance,CI/CD,72,0,0.0
+Quality Assurance,Jira,68,0,0.0
+Quality Assurance,Business Analysis,52,0,0.0
+Quality Assurance,Inventory Management,74,0,0.0
+Quality Assurance,Auditing,85,0,0.0
+Quality Assurance,HIPAA,57,0,0.0
+Quality Assurance,GMP,60,0,0.0
+Negotiation,CRM,166,0,0.0
+Negotiation,Account Management,84,0,0.0
+Negotiation,Presentation Skills,127,0,0.0
+Negotiation,Forecasting,97,0,0.0
+Negotiation,Market Research,57,0,0.0
+Negotiation,Salesforce,105,0,0.0
+Negotiation,Lead Generation,143,0,0.0
+Negotiation,Logistics,143,0,0.0
+Negotiation,Budgeting,77,0,0.0
+Negotiation,Risk Management,85,0,0.0
+Negotiation,Supply Chain,164,0,0.0
+Negotiation,Business Development,182,0,0.0
+Negotiation,Cold Calling,57,0,0.0
+Negotiation,Procurement,220,0,0.0
+Negotiation,Conflict Resolution,56,0,0.0
+Data Analysis,Digital Marketing,57,0,0.0
+Data Analysis,Salesforce,79,0,0.0
+Data Analysis,Presentation Skills,85,0,0.0
+Data Analysis,Forecasting,92,0,0.0
+Data Analysis,ETL,77,0,0.0
+Data Analysis,Multitasking,69,0,0.0
+Data Analysis,Power BI,156,0,0.0
+Data Analysis,SQL Server,59,0,0.0
+Data Analysis,AWS,88,0,0.0
+Data Analysis,Data Visualization,111,0,0.0
+Data Analysis,Machine Learning,112,0,0.0
+Data Analysis,SQL,293,0,0.0
+Data Analysis,Statistics,195,0,0.0
+Data Analysis,Tableau,165,0,0.0
+Data Analysis,Supply Chain,103,0,0.0
+Data Analysis,Data Quality,98,0,0.0
+Data Analysis,Python,222,0,0.0
+Data Analysis,Data Warehousing,86,0,0.0
+Data Analysis,Microsoft Azure,80,0,0.0
+Data Analysis,SAP,86,0,0.0
+Data Analysis,Critical Thinking,86,0,0.0
+Data Analysis,Market Research,59,0,0.0
+Data Analysis,Change Management,70,0,0.0
+Data Analysis,Scrum,52,0,0.0
+Data Analysis,Business Analysis,62,0,0.0
+CRM,Account Management,98,0,0.0
+CRM,Presentation Skills,104,0,0.0
+CRM,Business Development,235,0,0.0
+CRM,Cold Calling,80,0,0.0
+CRM,Lead Generation,236,0,0.0
+CRM,Salesforce,319,0,0.0
+CRM,ERP,80,0,0.0
+CRM,E-commerce,65,0,0.0
+Logistics,Procurement,166,0,0.0
+Logistics,Multitasking,85,0,0.0
+Logistics,OSHA,58,0,0.0
+Logistics,Supply Chain,355,0,0.0
+Logistics,ERP,77,0,0.0
+Logistics,Inventory Management,115,0,0.0
+Logistics,SAP,91,0,0.0
+Logistics,Office Administration,80,0,0.0
+Logistics,Quality Control,101,0,0.0
+SQL,AWS,269,0,0.0
+SQL,CI/CD,135,0,0.0
+SQL,Git,124,0,0.0
+SQL,REST API,88,0,0.0
+SQL,React,73,0,0.0
+SQL,Angular,52,0,0.0
+SQL,Data Visualization,110,0,0.0
+SQL,JavaScript,175,0,0.0
+SQL,Jenkins,65,0,0.0
+SQL,Jira,86,0,0.0
+SQL,Machine Learning,121,0,0.0
+SQL,Microservices,64,0,0.0
+SQL,Statistics,155,0,0.0
+SQL,Tableau,204,0,0.0
+SQL,ERP,60,0,0.0
+SQL,Oracle Database,55,0,0.0
+SQL,Data Modeling,117,0,0.0
+SQL,Hadoop,61,0,0.0
+SQL,Java,236,0,0.0
+SQL,Python,442,0,0.0
+SQL,C#,122,0,0.0
+SQL,HTML,101,0,0.0
+SQL,Microsoft Azure,256,0,0.0
+SQL,Power BI,182,0,0.0
+SQL,Apache Spark,105,0,0.0
+SQL,ETL,199,0,0.0
+SQL,Google Cloud Platform,103,0,0.0
+SQL,MySQL,72,0,0.0
+SQL,SQL Server,180,0,0.0
+SQL,Apache Kafka,52,0,0.0
+SQL,Kubernetes,83,0,0.0
+SQL,Linux,120,0,0.0
+SQL,Unix,81,0,0.0
+SQL,Business Analysis,72,0,0.0
+SQL,Big Data,76,0,0.0
+SQL,Scrum,83,0,0.0
+SQL,CSS,69,0,0.0
+SQL,Data Warehousing,151,0,0.0
+SQL,Docker,81,0,0.0
+SQL,PostgreSQL,83,0,0.0
+SQL,Snowflake,80,0,0.0
+SQL,Data Quality,124,0,0.0
+SQL,Help Desk,73,0,0.0
+SQL,SAS,50,0,0.0
+Business Development,Cold Calling,58,0,0.0
+Business Development,Lead Generation,198,0,0.0
+Business Development,Onboarding,83,0,0.0
+Business Development,Account Management,117,0,0.0
+Business Development,Forecasting,74,0,0.0
+Business Development,Salesforce,117,0,0.0
+Business Development,Market Research,73,0,0.0
+Business Development,Presentation Skills,89,0,0.0
+Python,AWS,366,0,0.0
+Python,CI/CD,191,0,0.0
+Python,Docker,142,0,0.0
+Python,Google Cloud Platform,156,0,0.0
+Python,JavaScript,177,0,0.0
+Python,PostgreSQL,74,0,0.0
+Python,TypeScript,62,0,0.0
+Python,C++,181,0,0.0
+Python,HTML,58,0,0.0
+Python,UX Design,53,0,0.0
+Python,Data Modeling,74,0,0.0
+Python,Hadoop,62,0,0.0
+Python,Java,304,0,0.0
+Python,Statistics,145,0,0.0
+Python,C#,114,0,0.0
+Python,Git,146,0,0.0
+Python,Microsoft Azure,224,0,0.0
+Python,Power BI,84,0,0.0
+Python,Apache Spark,133,0,0.0
+Python,ETL,115,0,0.0
+Python,Infrastructure as Code,56,0,0.0
+Python,MySQL,62,0,0.0
+Python,SQL Server,79,0,0.0
+Python,Terraform,86,0,0.0
+Python,Bash,93,0,0.0
+Python,Jira,69,0,0.0
+Python,Apache Kafka,62,0,0.0
+Python,Big Data,88,0,0.0
+Python,Data Quality,98,0,0.0
+Python,Data Visualization,97,0,0.0
+Python,Data Warehousing,88,0,0.0
+Python,Perl,76,0,0.0
+Python,Snowflake,60,0,0.0
+Python,Tableau,120,0,0.0
+Python,Jenkins,101,0,0.0
+Python,REST API,73,0,0.0
+Python,Node.js,59,0,0.0
+Python,Scrum,69,0,0.0
+Python,Cybersecurity,121,0,0.0
+Python,Splunk,50,0,0.0
+Python,Linux,215,0,0.0
+Python,Unix,65,0,0.0
+Python,Ansible,82,0,0.0
+Python,Kubernetes,139,0,0.0
+Python,Machine Learning,198,0,0.0
+Python,Microservices,57,0,0.0
+Python,PowerShell,101,0,0.0
+Python,NLP,56,0,0.0
+Python,React,80,0,0.0
+Python,Ruby,64,0,0.0
+Supply Chain,E-commerce,58,0,0.0
+Supply Chain,ERP,158,0,0.0
+Supply Chain,Procurement,228,0,0.0
+Supply Chain,Inventory Management,128,0,0.0
+Supply Chain,Performance Management,57,0,0.0
+Supply Chain,SAP,156,0,0.0
+Supply Chain,Forecasting,100,0,0.0
+Supply Chain,Six Sigma,62,0,0.0
+Payroll,Accounts Payable,147,0,0.0
+Payroll,Accounts Receivable,91,0,0.0
+Payroll,Data Entry,50,0,0.0
+Payroll,Office Administration,55,0,0.0
+Payroll,Reconciliation,154,0,0.0
+Payroll,Bookkeeping,76,0,0.0
+Payroll,Budgeting,84,0,0.0
+Payroll,GAAP,83,0,0.0
+Payroll,Forecasting,90,0,0.0
+Payroll,Onboarding,132,0,0.0
+Payroll,Employee Relations,83,0,0.0
+Payroll,Financial Reporting,85,0,0.0
+Payroll,Talent Acquisition,55,0,0.0
+Payroll,ERP,53,0,0.0
+Payroll,Performance Management,89,0,0.0
+Payroll,Inventory Management,55,0,0.0
+Onboarding,Change Management,54,0,0.0
+Onboarding,Salesforce,80,0,0.0
+Onboarding,Talent Acquisition,68,0,0.0
+Onboarding,Lead Generation,103,0,0.0
+Onboarding,Training and Development,50,0,0.0
+Onboarding,Employee Relations,69,0,0.0
+Onboarding,Performance Management,73,0,0.0
+Onboarding,Office Administration,57,0,0.0
+Quality Control,OSHA,63,0,0.0
+Quality Control,Inventory Management,60,0,0.0
+Quality Control,GMP,61,0,0.0
+Quality Control,Procurement,115,0,0.0
+Procurement,Inventory Management,85,0,0.0
+Procurement,ERP,98,0,0.0
+Procurement,Change Management,61,0,0.0
+Procurement,SAP,90,0,0.0
+Procurement,Vendor Management,51,0,0.0
+Procurement,Forecasting,81,0,0.0
+Procurement,Budgeting,76,0,0.0
+Procurement,Risk Management,65,0,0.0
+Risk Management,Auditing,72,0,0.0
+Risk Management,Financial Reporting,55,0,0.0
+Risk Management,Presentation Skills,54,0,0.0
+Risk Management,Cybersecurity,145,0,0.0
+Risk Management,Change Management,54,0,0.0
+Risk Management,PMP,50,0,0.0
+Risk Management,Budgeting,68,0,0.0
+Risk Management,Forecasting,51,0,0.0
+AWS,CI/CD,239,0,0.0
+AWS,Docker,163,0,0.0
+AWS,Google Cloud Platform,251,0,0.0
+AWS,JavaScript,146,0,0.0
+AWS,PostgreSQL,91,0,0.0
+AWS,TypeScript,67,0,0.0
+AWS,Git,114,0,0.0
+AWS,Node.js,81,0,0.0
+AWS,REST API,100,0,0.0
+AWS,React,106,0,0.0
+AWS,Jenkins,112,0,0.0
+AWS,Kubernetes,164,0,0.0
+AWS,Scrum,97,0,0.0
+AWS,Angular,63,0,0.0
+AWS,Jira,73,0,0.0
+AWS,Machine Learning,103,0,0.0
+AWS,Microservices,87,0,0.0
+AWS,Apache Spark,103,0,0.0
+AWS,Data Modeling,73,0,0.0
+AWS,ETL,108,0,0.0
+AWS,Infrastructure as Code,80,0,0.0
+AWS,Java,241,0,0.0
+AWS,Microsoft Azure,370,0,0.0
+AWS,MySQL,52,0,0.0
+AWS,SQL Server,73,0,0.0
+AWS,Terraform,104,0,0.0
+AWS,C#,74,0,0.0
+AWS,HTML,54,0,0.0
+AWS,Linux,174,0,0.0
+AWS,Unix,69,0,0.0
+AWS,Apache Kafka,77,0,0.0
+AWS,Big Data,74,0,0.0
+AWS,Data Quality,59,0,0.0
+AWS,Data Warehousing,72,0,0.0
+AWS,Hadoop,52,0,0.0
+AWS,Ansible,78,0,0.0
+AWS,Bash,52,0,0.0
+AWS,C++,55,0,0.0
+AWS,PowerShell,65,0,0.0
+AWS,Cybersecurity,117,0,0.0
+Help Desk,Linux,63,0,0.0
+Help Desk,Active Directory,82,0,0.0
+Help Desk,Office 365,71,0,0.0
+Help Desk,Microsoft Azure,76,0,0.0
+Forecasting,Presentation Skills,54,0,0.0
+Forecasting,Salesforce,51,0,0.0
+Forecasting,Lead Generation,50,0,0.0
+Forecasting,Budgeting,270,0,0.0
+Forecasting,Financial Modeling,79,0,0.0
+Forecasting,Variance Analysis,57,0,0.0
+Forecasting,ERP,63,0,0.0
+Forecasting,Financial Analysis,105,0,0.0
+Forecasting,Financial Reporting,105,0,0.0
+Forecasting,GAAP,61,0,0.0
+Forecasting,SAP,68,0,0.0
+Forecasting,Reconciliation,73,0,0.0
+Forecasting,Tableau,52,0,0.0
+Salesforce,Presentation Skills,65,0,0.0
+Salesforce,Lead Generation,134,0,0.0
+Salesforce,Account Management,70,0,0.0
+Presentation Skills,Account Management,60,0,0.0
+Presentation Skills,Budgeting,50,0,0.0
+Presentation Skills,Lead Generation,60,0,0.0
+Budgeting,GAAP,61,0,0.0
+Budgeting,Financial Analysis,112,0,0.0
+Budgeting,Financial Modeling,62,0,0.0
+Budgeting,Variance Analysis,53,0,0.0
+Budgeting,Financial Reporting,134,0,0.0
+Budgeting,Accounts Payable,58,0,0.0
+Budgeting,Reconciliation,81,0,0.0
+Budgeting,ERP,55,0,0.0
+Reconciliation,Accounts Payable,160,0,0.0
+Reconciliation,GAAP,169,0,0.0
+Reconciliation,Accounts Receivable,112,0,0.0
+Reconciliation,ERP,111,0,0.0
+Reconciliation,Financial Reporting,155,0,0.0
+Reconciliation,SAP,57,0,0.0
+Reconciliation,Financial Analysis,54,0,0.0
+SAP,Power BI,53,0,0.0
+SAP,ERP,161,0,0.0
+Microsoft Azure,Active Directory,100,0,0.0
+Microsoft Azure,DNS,57,0,0.0
+Microsoft Azure,Office 365,91,0,0.0
+Microsoft Azure,CI/CD,165,0,0.0
+Microsoft Azure,Git,98,0,0.0
+Microsoft Azure,Infrastructure as Code,62,0,0.0
+Microsoft Azure,Java,160,0,0.0
+Microsoft Azure,Jenkins,72,0,0.0
+Microsoft Azure,Kubernetes,134,0,0.0
+Microsoft Azure,PowerShell,90,0,0.0
+Microsoft Azure,Data Warehousing,63,0,0.0
+Microsoft Azure,ETL,92,0,0.0
+Microsoft Azure,Power BI,66,0,0.0
+Microsoft Azure,C#,138,0,0.0
+Microsoft Azure,HTML,63,0,0.0
+Microsoft Azure,Apache Spark,54,0,0.0
+Microsoft Azure,Data Modeling,52,0,0.0
+Microsoft Azure,Google Cloud Platform,217,0,0.0
+Microsoft Azure,JavaScript,117,0,0.0
+Microsoft Azure,SQL Server,121,0,0.0
+Microsoft Azure,Terraform,70,0,0.0
+Microsoft Azure,Data Quality,55,0,0.0
+Microsoft Azure,REST API,68,0,0.0
+Microsoft Azure,React,64,0,0.0
+Microsoft Azure,Scrum,70,0,0.0
+Microsoft Azure,Ansible,62,0,0.0
+Microsoft Azure,CSS,51,0,0.0
+Microsoft Azure,Docker,117,0,0.0
+Microsoft Azure,Machine Learning,57,0,0.0
+Microsoft Azure,Microservices,58,0,0.0
+Microsoft Azure,Jira,66,0,0.0
+Microsoft Azure,Linux,126,0,0.0
+Microsoft Azure,SharePoint,59,0,0.0
+Microsoft Azure,Cybersecurity,112,0,0.0
+Microsoft Azure,VMware,52,0,0.0
+ERP,Accounts Payable,64,0,0.0
+ERP,Accounts Receivable,52,0,0.0
+ERP,Financial Reporting,85,0,0.0
+ERP,GAAP,82,0,0.0
+ERP,Inventory Management,72,0,0.0
+Java,C++,112,0,0.0
+Java,Linux,107,0,0.0
+Java,MySQL,63,0,0.0
+Java,Unix,63,0,0.0
+Java,CI/CD,215,0,0.0
+Java,Git,143,0,0.0
+Java,Jenkins,120,0,0.0
+Java,Kubernetes,137,0,0.0
+Java,JavaScript,228,0,0.0
+Java,Apache Spark,72,0,0.0
+Java,ETL,61,0,0.0
+Java,Google Cloud Platform,79,0,0.0
+Java,SQL Server,60,0,0.0
+Java,Microservices,125,0,0.0
+Java,Scrum,92,0,0.0
+Java,Apache Kafka,75,0,0.0
+Java,C#,105,0,0.0
+Java,Jira,69,0,0.0
+Java,Angular,110,0,0.0
+Java,CSS,98,0,0.0
+Java,Docker,128,0,0.0
+Java,HTML,124,0,0.0
+Java,Node.js,79,0,0.0
+Java,PostgreSQL,56,0,0.0
+Java,TypeScript,53,0,0.0
+Java,React,109,0,0.0
+Java,Big Data,54,0,0.0
+Java,REST API,143,0,0.0
+Java,Machine Learning,69,0,0.0
+Cybersecurity,Incident Response,86,0,0.0
+Cybersecurity,Active Directory,54,0,0.0
+Cybersecurity,PowerShell,58,0,0.0
+Cybersecurity,Linux,106,0,0.0
+Cybersecurity,Google Cloud Platform,55,0,0.0
+Lead Generation,Cold Calling,119,0,0.0
+Lead Generation,Account Management,67,0,0.0
+Statistics,Data Visualization,67,0,0.0
+Statistics,Machine Learning,92,0,0.0
+Statistics,Tableau,71,0,0.0
+Statistics,Power BI,57,0,0.0
+Change Management,Performance Management,64,0,0.0
+Data Entry,Office Administration,55,0,0.0
+Talent Acquisition,Employee Relations,56,0,0.0
+Talent Acquisition,Performance Management,61,0,0.0
+Talent Acquisition,Event Planning,80,0,0.0
+JavaScript,CI/CD,116,0,0.0
+JavaScript,Docker,66,0,0.0
+JavaScript,TypeScript,120,0,0.0
+JavaScript,CSS,239,0,0.0
+JavaScript,HTML,270,0,0.0
+JavaScript,UX Design,83,0,0.0
+JavaScript,Angular,145,0,0.0
+JavaScript,Jenkins,62,0,0.0
+JavaScript,REST API,109,0,0.0
+JavaScript,SQL Server,68,0,0.0
+JavaScript,C#,117,0,0.0
+JavaScript,Git,124,0,0.0
+JavaScript,Linux,56,0,0.0
+JavaScript,Node.js,100,0,0.0
+JavaScript,React,203,0,0.0
+JavaScript,Scrum,78,0,0.0
+JavaScript,Kubernetes,53,0,0.0
+Training and Development,Performance Management,51,0,0.0
+Linux,C++,107,0,0.0
+Linux,Unix,134,0,0.0
+Linux,Kubernetes,81,0,0.0
+Linux,CI/CD,95,0,0.0
+Linux,Docker,92,0,0.0
+Linux,Git,83,0,0.0
+Linux,Jenkins,55,0,0.0
+Linux,Ansible,62,0,0.0
+Linux,Bash,61,0,0.0
+Linux,PowerShell,59,0,0.0
+Linux,Google Cloud Platform,60,0,0.0
+HTML,CSS,282,0,0.0
+HTML,UX Design,70,0,0.0
+HTML,C#,70,0,0.0
+HTML,Git,82,0,0.0
+HTML,Angular,97,0,0.0
+HTML,Node.js,57,0,0.0
+HTML,SQL Server,57,0,0.0
+HTML,TypeScript,68,0,0.0
+HTML,React,107,0,0.0
+HTML,REST API,71,0,0.0
+HTML,CI/CD,55,0,0.0
+Financial Reporting,GAAP,177,0,0.0
+Financial Reporting,Financial Analysis,82,0,0.0
+Financial Reporting,Accounts Payable,81,0,0.0
+Financial Reporting,Accounts Receivable,64,0,0.0
+CI/CD,Docker,135,0,0.0
+CI/CD,Google Cloud Platform,83,0,0.0
+CI/CD,PostgreSQL,51,0,0.0
+CI/CD,Git,145,0,0.0
+CI/CD,Node.js,55,0,0.0
+CI/CD,REST API,94,0,0.0
+CI/CD,React,99,0,0.0
+CI/CD,Jenkins,144,0,0.0
+CI/CD,Kubernetes,149,0,0.0
+CI/CD,Scrum,111,0,0.0
+CI/CD,Infrastructure as Code,70,0,0.0
+CI/CD,C#,70,0,0.0
+CI/CD,Jira,60,0,0.0
+CI/CD,SQL Server,54,0,0.0
+CI/CD,Angular,57,0,0.0
+CI/CD,Microservices,92,0,0.0
+CI/CD,Terraform,77,0,0.0
+CI/CD,Ansible,58,0,0.0
+Auditing,HIPAA,51,0,0.0
+Performance Management,Employee Relations,98,0,0.0
+E-commerce,Digital Marketing,57,0,0.0
+Scrum,Git,59,0,0.0
+Scrum,Kanban,66,0,0.0
+Scrum,Jira,114,0,0.0
+Jira,Confluence,134,0,0.0
+Jira,Git,76,0,0.0
+Google Cloud Platform,Docker,77,0,0.0
+Google Cloud Platform,Apache Spark,58,0,0.0
+Google Cloud Platform,Terraform,57,0,0.0
+Google Cloud Platform,Kubernetes,98,0,0.0
+Google Cloud Platform,Clinical Research,63,0,0.0
+Machine Learning,NLP,65,0,0.0
+Machine Learning,C++,56,0,0.0
+Machine Learning,Apache Spark,62,0,0.0
+Machine Learning,Big Data,56,0,0.0
+Accounts Payable,Accounts Receivable,181,0,0.0
+Accounts Payable,GAAP,85,0,0.0
+React,Git,81,0,0.0
+React,Node.js,92,0,0.0
+React,REST API,82,0,0.0
+React,TypeScript,92,0,0.0
+React,CSS,96,0,0.0
+React,Angular,92,0,0.0
+React,C#,50,0,0.0
+React,Docker,50,0,0.0
+UX Design,CSS,66,0,0.0
+Power BI,Data Warehousing,62,0,0.0
+Power BI,Tableau,150,0,0.0
+Power BI,Data Visualization,68,0,0.0
+GAAP,Financial Analysis,61,0,0.0
+GAAP,Accounts Receivable,68,0,0.0
+Tableau,Data Visualization,109,0,0.0
+Tableau,Data Warehousing,51,0,0.0
+Tableau,ETL,50,0,0.0
+SharePoint,Office 365,83,0,0.0
+Git,REST API,93,0,0.0
+Git,Jenkins,88,0,0.0
+Git,Kubernetes,69,0,0.0
+Git,C#,53,0,0.0
+Git,C++,50,0,0.0
+Git,Angular,69,0,0.0
+Git,CSS,72,0,0.0
+Git,Docker,93,0,0.0
+Git,SQL Server,50,0,0.0
+Git,TypeScript,57,0,0.0
+Git,Microservices,52,0,0.0
+AutoCAD,SolidWorks,51,0,0.0
+CSS,Angular,95,0,0.0
+CSS,C#,62,0,0.0
+CSS,TypeScript,62,0,0.0
+CSS,REST API,71,0,0.0
+Digital Marketing,SEO,98,0,0.0
+Digital Marketing,Google Analytics,58,0,0.0
+Digital Marketing,Email Marketing,61,0,0.0
+Financial Analysis,Financial Modeling,58,0,0.0
+Data Quality,ETL,73,0,0.0
+Data Quality,Data Modeling,64,0,0.0
+Data Quality,Data Warehousing,81,0,0.0
+SQL Server,ETL,80,0,0.0
+SQL Server,C#,106,0,0.0
+C++,C#,68,0,0.0
+C#,Angular,62,0,0.0
+C#,Docker,50,0,0.0
+ETL,Data Warehousing,124,0,0.0
+ETL,Apache Spark,54,0,0.0
+ETL,Data Modeling,85,0,0.0
+Office 365,Active Directory,81,0,0.0
+Tax Preparation,Bookkeeping,57,0,0.0
+TypeScript,Angular,58,0,0.0
+Kubernetes,Jenkins,86,0,0.0
+Kubernetes,Infrastructure as Code,55,0,0.0
+Kubernetes,Apache Kafka,56,0,0.0
+Kubernetes,Ansible,62,0,0.0
+Kubernetes,Terraform,75,0,0.0
+Kubernetes,Docker,192,0,0.0
+Kubernetes,Microservices,72,0,0.0
+Docker,Jenkins,71,0,0.0
+Docker,Microservices,63,0,0.0
+Docker,REST API,59,0,0.0
+Docker,Terraform,54,0,0.0
+REST API,Node.js,56,0,0.0
+REST API,Angular,72,0,0.0
+REST API,Jenkins,60,0,0.0
+REST API,Microservices,61,0,0.0
+Data Warehousing,Data Modeling,74,0,0.0
+Apache Spark,Apache Kafka,52,0,0.0
+Apache Spark,Big Data,81,0,0.0
+Apache Spark,Hadoop,77,0,0.0
+Active Directory,VMware,61,0,0.0
+Active Directory,DNS,55,0,0.0
+Active Directory,PowerShell,59,0,0.0
+Adobe Photoshop,Adobe Illustrator,150,0,0.0
+Adobe Photoshop,Adobe InDesign,93,0,0.0
+Adobe Photoshop,Graphic Design,74,0,0.0
+Graphic Design,Adobe Illustrator,64,0,0.0
+Graphic Design,Adobe InDesign,50,0,0.0
+Big Data,Hadoop,60,0,0.0
+Adobe Illustrator,Adobe InDesign,84,0,0.0
+DNS,TCP/IP,57,0,0.0
+Terraform,Infrastructure as Code,78,0,0.0
+Terraform,Ansible,62,0,0.0
+Python,Stakeholder Management,0,1,1.5396298529057149
+Agile,Data Analysis,0,1,1.0900176081779855
+Microsoft Excel,Payroll,0,1,1.0380519480519481
+Accounting,Compliance,0,1,0.9576441102756892
+Compliance,Quality Assurance,0,1,0.8518379281537176
+Quality Assurance,Stakeholder Management,0,1,0.7794552565469081
+Microsoft Excel,Process Improvement,0,1,0.7352741702741703
+CSS,Python,0,1,0.6755835667600374
+Agile,Process Improvement,0,1,0.6416361416361416
+Project Management,SQL,0,1,0.6040609581988893
+AWS,CSS,0,1,0.5858399770164476
+C#,REST API,0,1,0.5725679854545291
+Accounts Receivable,Budgeting,0,1,0.554729874752758
+Angular,Microsoft Azure,0,1,0.5187354340498357
+Data Analysis,Negotiation,0,1,0.5130214230214231
+Project Management,Supply Chain,0,1,0.49002439047811097
+Kubernetes,REST API,0,1,0.47217491447322285
+CRM,Forecasting,0,1,0.4671717171717172
+Accounts Payable,Forecasting,0,1,0.4588082525153463
+Payroll,Procurement,0,1,0.44782638414217363
